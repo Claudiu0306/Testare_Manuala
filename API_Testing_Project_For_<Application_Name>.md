@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6d6c79db-407d-48bf-b22c-f2f08c6042b3)<h1>API Testing Project for **POSTMAN**</h1>
+<h1>API Testing Project for **POSTMAN**</h1>
 
 The scope of this project is to use all  API knowledge gained throught the Software Testing course and apply them in practice, using a live application.
 
@@ -27,7 +27,7 @@ JavaScript Tests:
 **![image](https://github.com/user-attachments/assets/e4ebb921-31d5-4afb-a010-250134ad4bf9) ![image](https://github.com/user-attachments/assets/1d36a5ef-3a88-47cf-a775-836f2fa76d0a)**<br>
 
 
-<li>**Nume Request 2**</li>
+<li>**GET all books - filter by negative limit**</li>
 
 HTTP method for request: **https://simple-books-api.glitch.me/books?limit=-5**<br>
 Request description: **In scenariul get all books - filter by invalid negative limit, am dorit sa aduc la vedere numarul cartilor existente prin filtrarea acestora, utilizand un numar negativ, body-ul requestului a returnat o eroare care spune ca numarul specificat al filtrarii trebuie sa fie mai mare decat 0**<br>
